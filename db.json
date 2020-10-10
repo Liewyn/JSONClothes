@@ -5,27 +5,6 @@
         "name": "Sudadera Sports Negra",
         "price": "$120000",
         "src":"https://i.pinimg.com/564x/21/e2/d1/21e2d107814786936b920ba2620b4fcc.jpg"
-      },  {
-        "id": 2,
-        "name": "Vestido Informal Floral",
-        "price": "$80000",
-        "src":"https://image.airycloth.com/image/airydress/600_822/59/8b/598b0f1f45c139b10ea8a6fb44387311.jpg"
-      },  {
-        "id": 3,
-        "name": "Blusas Informal Manga Lunar",
-        "price": "$60000",
-        "src":"https://image.airycloth.com/image/airydress/800_1096/d7/c3/d7c38d73f1003153e2659018761c44d2.jpg"
-      }, {
-        "id": 4,
-        "name": "Outfit Sudadera Negra",
-        "price": "$110000",
-        "src":"https://bolsosymoda.co/1275-medium_default/ropa-de-ejercicio-para-mujer.jpg"
-      },
-      {
-        "id": 5,
-        "name": "Vestido Rojo Primavera",
-        "price": "$130000",
-        "src":"https://image.dhgate.com/0x0s/f2-albu-g10-M00-03-80-rBVaVlx7OEaAIr1NAAWyBKKGB88515.jpg/moda-mujer-ropa-de-mujer-superpuesta-vendaje.jpg"
       }
     ],
     "stores": [
@@ -35,30 +14,6 @@
           "location": "FONTANAR",
           "src":"https://imgcdn.larepublica.co/i/1200/2018/02/08204604/fontanar1.jpg",
           "dir":"Cra 5 numero 13 45"
-        },  {
-          "id": 2,
-          "country": "Colombia",
-          "location": "PLAZA CENTRAL",
-          "src":"https://www.semana.com/resizer/INN59jAZCZYe8EkjI6IyJHT95M8=/1920x1440/filters:format(jpg):quality(70)//cloudfront-us-east-1.images.arcpublishing.com/semana/HUFPZ5NJVRHSFKLYY5P5YGNXOU.jpg",
-          "dir":"Cra 6 numero 13 45"
-        },  {
-          "id": 3,
-          "country": "Colombia",
-          "location": "PARQUE LA COLINA",
-          "src":"https://imgcdn.larepublica.co/i/768/2020/03/09162249/colina-allr.jpg",
-          "dir":"Cra 7 numero 13 45"
-        },{
-          "id": 4,
-          "country": "Colombia",
-          "location": "MULTIPLAZA",
-          "src":"https://www.semana.com/resizer/yGYn1OU49-s1oXT0raz8UbVat3U=/1920x1080/filters:format(jpg):quality(70)//cloudfront-us-east-1.images.arcpublishing.com/semana/MXKGPNP5MVAEPNGTLAW647U7H4.jpg",
-          "dir":"Cra 8 numero 13 45"
-        },{
-          "id": 5,
-          "country": "Colombia",
-          "location": "CENTRO COMERCIAL GRAN ESTACION",
-          "src":"https://4.bp.blogspot.com/-lm_SKduB5cU/U_-CIroziKI/AAAAAAAAGKA/RZr7xNipvGQ/s1600/Gran-Estaci%C3%B3n-Bogot%C3%A1.jpg",
-          "dir":"Cra 9 numero 13 45"
         }
       ],
     "categorias_hombre": [
@@ -66,23 +21,6 @@
         "id": 1,
         "name": "Cinturon",
         "src": "https://lh3.googleusercontent.com/proxy/iV_jNUX6ndeHCNyKHqntWFUip7g7nkSnmLgx9OGxGky909tUa-zPk4a9AqvW8O1tfMcHP-HJcbobqSTSD9Qs94T9rlO9YblQVp-GZQGO3FNJ7wXs9LsM8CrD"
-      }, 
-      {
-        "id": 2,
-        "name": "Camisas",
-        "src":"https://www.dhresource.com/0x0s/f2-albu-g5-M00-7A-24-rBVaI1mZEoiAMXupAAWV_FWx3b8745.jpg/nueva-marca-de-moda-para-hombres-camisa-de.jpg"
-      }
-      , 
-      {
-        "id": 3,
-        "name": "Camisetas",
-        "src":"https://as01.epimg.net/diarioas/imagenes/2020/06/14/actualidad/1592159912_835632_1592159962_noticia_normal_recorte1.jpg"
-      }
-      , 
-      {
-        "id": 4,
-        "name": "Corbatas",
-        "src":"https://images-na.ssl-images-amazon.com/images/I/71OpJCXyRxL._AC_UX679_.jpg"
       }
       
     ],
@@ -91,21 +29,6 @@
         "id": 1,
         "name": "Faldas",
         "src":"https://ae01.alicdn.com/kf/HTB15in1AbGYBuNjy0Foq6AiBFXaK/Nueva-falda-Sexy-para-mujer-Mini-Falda-corta-faldas-de-oto-o-falda-tut-plisada-de.jpg_q50.jpg"
-      }, 
-      {
-        "id": 2,
-        "name": "Blusas",
-        "src":"https://i.ytimg.com/vi/91qeA4pGkYo/maxresdefault.jpg"
-      }, 
-      {
-        "id": 3,
-        "name": "Joyas",
-        "src":"https://lh3.googleusercontent.com/proxy/qTx_Svj5vrnZtM_iQKJh3Q8QVNP-LtEGsfUUzhYYYc1kF4HGrLXm71cXgGm2adoem4U8xFHIIuH0JbAT5bzqzhI3-cfh7g8y5XzcfsK3kfdssLvcp5sC3xUiffXv46Dx3KeqJQ"
-      },
-      {
-        "id": 4,
-        "name": "Vestidos",
-        "src":"https://i.pinimg.com/originals/f3/5f/7a/f35f7a8b626882f6e6b68ea493a29e59.jpg"
       }
       
     ],
@@ -115,12 +38,6 @@
         "name": "Sudadera Sports Negra",
         "price": "$120000",
         "src":"https://www.dhresource.com/0x0/f2/albu/g9/M00/9D/98/rBVaWFwUb36AX9JoAAFfDChui5c500.jpg/mark-2018-spring-autumn-men-39-s-fashion.jpg"
-      }, 
-      {
-        "id": 2,
-        "name": "Chaqueta Marine Verde",
-        "price": "$120000",
-        "src":"https://i.pinimg.com/564x/e0/78/d1/e078d1b750c23267de08ca4328be5277.jpg"
       }
       
     ],
@@ -130,12 +47,6 @@
         "name": "Outfit Kadarshian Verano",
         "price": "$220000",
         "src":"https://www.dhresource.com/0x0/f2/albu/g10/M00/FE/F9/rBVaVlyR7_-ATyrRAANAcqTHIHQ147.jpg/designer-women-clothes-2019-autumn-women.jpg"
-      }, 
-      {
-        "id": 1,
-        "name": "Camisa Beige Animals",
-        "price": "$120000",
-        "src":"https://i.pinimg.com/736x/6a/bc/f7/6abcf770087bd026a9438aea48d51f4a.jpg"
       }
       
     ]
