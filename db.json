@@ -2,13 +2,36 @@
     "clothes": [
       {
         "id": 1,
-        "title": "hello"
+        "name": "Sudadera Sports Negra",
+        "precio": "$120000",
+        "url":"https://i.pinimg.com/564x/21/e2/d1/21e2d107814786936b920ba2620b4fcc.jpg"
       },  {
         "id": 2,
-        "title": "hello"
+        "name": "Vestido Informal Floral",
+        "precio": "$80000",
+        "url":"https://image.airycloth.com/image/airydress/600_822/59/8b/598b0f1f45c139b10ea8a6fb44387311.jpg"
       },  {
         "id": 3,
-        "title": "hello"
+        "name": "Blusas Informal Manga Lunar",
+        "precio": "$60000",
+        "url":"https://image.airycloth.com/image/airydress/800_1096/d7/c3/d7c38d73f1003153e2659018761c44d2.jpg"
+      }, {
+        "id": 4,
+        "name": "Outfit Sudadera Negra",
+        "precio": "$110000",
+        "url":"https://bolsosymoda.co/1275-medium_default/ropa-de-ejercicio-para-mujer.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Vestido Rojo Primavera",
+        "precio": "$130000",
+        "url":"https://image.dhgate.com/0x0s/f2-albu-g10-M00-03-80-rBVaVlx7OEaAIr1NAAWyBKKGB88515.jpg/moda-mujer-ropa-de-mujer-superpuesta-vendaje.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Jean Ajustado Veraniego",
+        "precio": "$120000",
+        "url":"https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/landings/2019/julio/mujeresSEO/desktop/mujeresropa_desktop_01.jpg"
       }
     ],
     "stores": [
