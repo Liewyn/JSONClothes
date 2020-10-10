@@ -61,6 +61,7 @@
           "dir":"Cra 9 numero 13 45"
         }
       ],
+      
     "men_category": [
       {
         "id": 1,
@@ -86,6 +87,7 @@
       }
       
     ],
+
     "women_category": [
       {
         "id": 1,
@@ -108,6 +110,34 @@
         "src":"https://i.pinimg.com/originals/f3/5f/7a/f35f7a8b626882f6e6b68ea493a29e59.jpg"
       }
       
+    ],
+
+    "hots_clothes": [
+      {
+        "id": 1,
+        "name": "Outfit Kadarshian Verano",
+        "price": "$220000",
+        "src":"https://www.dhresource.com/0x0/f2/albu/g10/M00/FE/F9/rBVaVlyR7_-ATyrRAANAcqTHIHQ147.jpg/designer-women-clothes-2019-autumn-women.jpg"
+      }, 
+      {
+        "id": 1,
+        "name": "Camisa Beige Animals",
+        "price": "$120000",
+        "src":"https://i.pinimg.com/736x/6a/bc/f7/6abcf770087bd026a9438aea48d51f4a.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Sudadera Sports Negra",
+        "price": "$120000",
+        "src":"https://www.dhresource.com/0x0/f2/albu/g9/M00/9D/98/rBVaWFwUb36AX9JoAAFfDChui5c500.jpg/mark-2018-spring-autumn-men-39-s-fashion.jpg"
+      }, 
+      {
+        "id": 2,
+        "name": "Chaqueta Marine Verde",
+        "price": "$120000",
+        "src":"https://i.pinimg.com/564x/e0/78/d1/e078d1b750c23267de08ca4328be5277.jpg"
+      }
+     
     ]
       
   }
